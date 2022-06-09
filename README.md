@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on improving my Front End Developer skills
 - 🌱 I’m currently learning HTML, CSS & React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on anywhere
+<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: Instagram - @didonikolovv or via gmail which is in GitHub bio.
 - 😄 Pronouns: He/his
