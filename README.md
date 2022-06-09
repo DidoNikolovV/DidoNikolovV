@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anywhere
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about JavaScript
-- 📫 How to reach me: Instagram - @didonikolovv or via gmail which is in GitHub bio.
+- 📫 How to reach me: didonikolov01@gmail.com 
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I don't have any idea what I should write.
