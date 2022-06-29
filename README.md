@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my Front End and communication skills
-- 🌱 I’m currently learning HTML, CSS & React
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on anywhere
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about JavaScript
