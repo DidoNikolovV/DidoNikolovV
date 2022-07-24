@@ -1,7 +1,6 @@
 # Hi there, I'm Dido 👋
 
 - 🌱 I’m currently learning REACT
-- 🥅 2022 Goals: Become a Front End Developer
 - ⚡ Fun fact: I love going to the gym
 
 ### Languages and Tools:
