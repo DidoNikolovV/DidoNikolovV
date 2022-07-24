@@ -4,11 +4,6 @@
 - 🥅 2022 Goals: Become a Front End Developer
 - ⚡ Fun fact: I love going to the gym
 
-### Connect with me:
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]((https://www.linkedin.com/in/diyan-nikolov-2a421919a/)
-&nbsp;
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -26,6 +21,6 @@
 <details>
   <summary>Dido Nikolov's GitHub Stats</summary>
 
-  <img align="left" alt="DidoNikolovV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DidoNikolovV&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="DidoNikolovV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DidoNikolovV&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
