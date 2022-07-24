@@ -7,6 +7,8 @@
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/diyan-nikolov-2a421919a/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/diyan-nikolov-2a421919a/)
+&nbsp;&nbsp;
 
 [![website](./img/instagram-light.svg)](https://www.instagram.com/didonikolovv/)
 
