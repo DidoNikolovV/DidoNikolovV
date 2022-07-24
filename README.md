@@ -9,8 +9,6 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]((https://www.linkedin.com/in/diyan-nikolov-2a421919a/)
 &nbsp;
 
-[![website](./img/instagram-light.svg)](https://www.instagram.com/didonikolovv/)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
