@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=didonikolovv&label=Profile%20views&color=0e75b6&style=flat" alt="didonikolovv" /> </p>
 
-- 🔭 I’m currently working on **Fit Launch**
+- 🔭 I’m currently working on **FindACoach**
 
 - 🌱 I’m currently learning **Spring**
 
