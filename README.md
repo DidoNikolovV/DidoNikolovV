@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **FindACoach**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Microservices**
 
 - 💬 Ask me about **Java**
 
